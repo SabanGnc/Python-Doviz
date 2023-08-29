@@ -1,0 +1,3 @@
+https://finage.co.uk/
+sitesine gidip hesap açtıkdan sonra api sekmesinden ücretsiz şekilde api alın ve koddaki # Finage API anahtarınızı buraya girin
+kısmına "APİ ANAHTARINIZI GİRİN" ve kullanmaya başlayın :D
