@@ -14,6 +14,7 @@ Bu basit Python uygulaması, anlık döviz kurlarını çekerek farklı birimler
 
 Gereksinimleri yüklemek için terminalde şu komutu kullanabilirsiniz:
 
+
 ```bash
 pip install requests
 
